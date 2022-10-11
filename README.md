@@ -17,7 +17,7 @@ The table below is a result from using the pyber summary dataframe and grouping 
 ![Image](pyber_fare_summary_chart.png)
 - We can see the weekly Urban fare ranges from approximately $1500-$2500; Suburban fare $500-$1500; and Rural fare $0-500.
 - There was a peak in February 2019 for all city types.
-- Urban always earned more weekly to Suburban. Suburban always earned more weekly to Rural.\
+- Urban always earned more weekly to Suburban. Suburban always earned more weekly to Rural.
 
 ## Summary:
 
